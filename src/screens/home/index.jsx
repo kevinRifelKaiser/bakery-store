@@ -1,3 +1,5 @@
+import { CategoryCard } from "../../components/index";
+
 const HomePage = () => {
   return (
     <>
